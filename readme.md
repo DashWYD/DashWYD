@@ -1,6 +1,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DashWYD&count_private=true&show_icons=true">
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashWYD&theme=blue-green">
+    
+ </p>
+
 
 <h2 align="center">My Experiences</h2>
 <h3 align="center">Languages and Runtimes</h3>
